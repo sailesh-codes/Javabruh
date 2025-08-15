@@ -1,4 +1,4 @@
-public class New6 {
+public class OverloadMethod {
     public static void main(String [] args){
 
     }
