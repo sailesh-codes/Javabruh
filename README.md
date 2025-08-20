@@ -1,4 +1,4 @@
-Java Daily Practice Repository 🚀
+Java Daily Practice Repository 
 A comprehensive collection of Java code snippets, exercises, and projects that I practice and learn every day. This repository serves as my coding journal, documenting my journey through Java development concepts, algorithms, design patterns, and real-world applications.
 📋 Table of Contents
 
