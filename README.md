@@ -3,7 +3,7 @@ A comprehensive collection of Java code snippets, exercises, and projects that I
  Table of Contents
 
 
-🎯 About This Repository
+ About This Repository
 This repository is my personal Java learning hub where I:
 
 Practice daily coding challenges from various platforms
