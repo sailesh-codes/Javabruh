@@ -14,6 +14,5 @@ Document solutions with explanations and time complexity analysis
 Track progress through consistent daily commits
 Create reference materials for future use
 
-Learning Philosophy
 
 "It's not what we do once in a while that shapes our lives. It's what we do consistently."
